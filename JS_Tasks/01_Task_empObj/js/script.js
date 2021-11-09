@@ -1,0 +1,21 @@
+var employee=[
+    {   
+         empid:531,
+         empName:"ajay",
+         empage:"23",
+         empaddress:"karimnagar"
+    },
+    {   
+        empid:544,
+        empName:"naresh",
+        empage:"23",
+        empaddress:"jangapally"
+   },
+   {   
+    empid:533,
+    empName:"vamshi",
+    empage:"23",
+    empaddress:"kachapur"
+},
+]
+console.log(employee[1])
