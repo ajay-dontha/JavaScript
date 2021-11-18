@@ -1,0 +1,55 @@
+.box{
+    background-color: #9e9393;
+    padding: 10px;
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 540px;
+    border-radius: 10px;
+}
+
+h4{
+    font-family: calibri;
+}
+
+h2{
+    text-align: center;
+    font-family: calibri;
+}
+
+#firstnumber>input {
+   padding: 10px;
+   margin-bottom: 10%;
+   border-radius: 10px;
+   border-style: none;
+}
+
+#secondnumber>input {
+   padding: 10px;
+   margin-bottom: 5%;
+   border-radius: 10px;
+   border-style: none;
+}
+
+#reset>a>button{
+    font-family: calibri;
+    height: 25px;
+    width: 60px;
+    margin-left: 120px;
+    border-radius: 10px;
+    border-style: none;
+    font-weight: 700;
+}
+
+#img{
+    float: right;
+    margin-top: -200px;
+    margin-right: 20px;
+
+}
+
+#button>button{
+    border-radius: 10px;
+    border-style: none;
+    line-height: 5px;
+}
+
